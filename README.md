@@ -1,12 +1,12 @@
 # Phaser Game Tutorial - [DEMO](http://carlesnunez.github.io/phaser-game-tutorial/)
 
+A simple shot'em all game made with HTML5 technology with **Phaser JS 
+
 You can follow me at 
 [Twitter](https://www.linkedin.com/in/carles-nu%C3%B1ez-tomeo-b791466b)
 [LinkedIn](https://twitter.com/carlesnunez)
 
 Slides of the talk available [HERE](https://docs.google.com/presentation/d/1996upApvF5euHTziLrEI2oVcOohzlZfl6DMnzax_RbI/edit?usp=sharing)
-
-A simple shot'em all game made with HTML5 technology with **Phaser JS 
 
 ##What I need to make work the example?
 
