@@ -1,6 +1,6 @@
 'use strict';
 var config = require('../config/configMain');
-var gameData = require('../gameData');
+var gameData = require('../core/gameData');
 
 var UI = function (game, isGame) {
   Phaser.Group.call(this, game);
