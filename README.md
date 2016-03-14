@@ -14,7 +14,7 @@ You will need:
  * Node (v0.10.25) is my current version
  * A updated NPM (Node package manager) version I'm working with (1.3.24)
 
-##How I should to start with that?
+##How I should start with that?
 
 First of all you need to install the dependencies of our project It will be the following:
 
