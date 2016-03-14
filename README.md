@@ -18,7 +18,7 @@ You will need:
 
 First of all you need to install the dependencies of our project It will be the following:
 
-* grunt: ^0.4.5,
+* grunt: ^0.4.5,git 
 * grunt-browserify: ^4.0.1,
 * grunt-contrib-connect: ^0.11.2
 * grunt-contrib-copy: ^0.8.2
@@ -31,6 +31,7 @@ Simple, just run inside of our root project folder the following command:
 
 ```bash
 npm install
+grunt
 ```
 
 That's all folks!
