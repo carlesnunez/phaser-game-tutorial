@@ -31,6 +31,6 @@ Simple, just run inside of our root project folder the following command:
 
 ```bash
 npm install
-
+```
 
 That's all folks!
